@@ -1,1 +1,1 @@
-# BelajarGoLang
+GoLang dasar mengenai function 
